@@ -139,9 +139,7 @@ Email alerts are sent for the following:
 
 ---
 
-## 🔮 Future Enhancements
-
-- Online proctoring via webcam
+## 🔮 Enhancements
 - Export results as PDF/Excel
 - Live quiz monitoring dashboard
 - Bulk upload of questions (CSV/Excel)
